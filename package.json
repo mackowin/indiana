@@ -1,0 +1,52 @@
+{
+  "name": "indianapolis-investors",
+  "version": "112.1.12",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-brands-svg-icons": "^5.15.1",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/vue-fontawesome": "^2.0.0",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.5.3",
+    "bootstrap-vue": "^2.20.1",
+    "core-js": "^3.6.5",
+    "feather-icons": "^4.28.0",
+    "jquery": "^3.6.0",
+    "plyr": "^3.6.8",
+    "serve": "^11.3.2",
+    "vee-validate": "^3.4.5",
+    "vue": "^2.6.11",
+    "vue-backtotop": "^1.6.1",
+    "vue-carousel": "^0.18.0",
+    "vue-clipboard2": "^0.3.1",
+    "vue-croppie": "^2.0.2",
+    "vue-feather": "^1.1.1",
+    "vue-gtag": "^1.16.1",
+    "vue-meta": "^2.4.0",
+    "vue-plyr": "^7.0.0",
+    "vue-router": "^3.2.0",
+    "vue-scrollto": "^2.20.0",
+    "vue-slick": "1.1.15",
+    "vuex": "^3.4.0",
+    "yarn": "^1.22.10"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "sass": "^1.26.5",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
