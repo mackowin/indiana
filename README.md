@@ -29,19 +29,19 @@ Guide to build financial freedom by investing in Indianapolis.
 * Scroll-up arrow
 
 ## Running App ##
-#### Project setup ####
+### Project setup ###
 yarn install
 
-#### Compiles and hot-reloads for development ####
+### Compiles and hot-reloads for development ###
 yarn serve
 
-#### Compiles and minifies for production ####
+### Compiles and minifies for production ###
 yarn build
 
-#### Lints and fixes files ####
+### Lints and fixes files ###
 yarn lint
 
-#### Customize configuration ####
+### Customize configuration ###
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Source ##
