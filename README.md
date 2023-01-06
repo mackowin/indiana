@@ -22,7 +22,7 @@ Guide to build financial freedom by investing in Indianapolis.
 * HTML
 * SCSS
 
-## Functionalities ##
+## Functionality ##
 * Auto-renewing price discount (not-visible for 5 days)
 * Payment with Stripe link
 * Contact form
