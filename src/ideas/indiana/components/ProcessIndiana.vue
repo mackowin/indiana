@@ -15,7 +15,7 @@
                 <div class="paragraph" style="margin-top: 20px">
                     <p style="font-weight: 600">Cash-flow rich market</p>
                     <p style="text-align: justify; text-justify: inter-word;">Living in another state and never heard of Indianapolis real estate? That's exactly the reason that makes Indianapolis a cash-flow-rich market: relatively low property prices vs. rent that you receive.</p>
-                    <p style="text-align: justify; text-justify: inter-word; margin-top: 10px">Let's say that you buy a house in California for $1.5m which generates $3,000 rent a month (rent to price ratio => 3k / 1m = 0.3%). While to invest in Indianapolis you require as little as $100-200k per house which generates $1,000-$1,700 rent a month (rent to price ratio => 1k / 100k = 1%)</p>
+                    <p style="text-align: justify; text-justify: inter-word; margin-top: 10px">Let's say that you buy a house in California for $1.5m which generates $3,000 rent a month (rent to price ratio => 3k / 1.5m = 0.2%). While to invest in Indianapolis you require as little as $100-200k per house which generates $1,000-$1,700 rent a month (rent to price ratio => 1k / 100k = 1%)</p>
                     <p style="text-align: justify; text-justify: inter-word; margin-top: 10px">Much better return, right? Of course, Indianapolis' growth prospects are far from California, but financial freedom is being built on regular cash flow.</p>
                 </div>
 
